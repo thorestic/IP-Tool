@@ -1,10 +1,10 @@
 ```md
 # IP-TOOL — Network Tool 🖥️🌐
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
-![Platform](https://img.shields.io/badge/Platform-Windows-0078D6)
-![GUI](https://img.shields.io/badge/GUI-Tkinter-green)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
+[![Platform](https://img.shields.io/badge/Platform-Windows-0078D6)](#)
+[![GUI](https://img.shields.io/badge/GUI-Tkinter-green)](https://docs.python.org/3/library/tkinter.html)
+[![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
 
 
 A simple **Windows desktop GUI** tool built with **Python + Tkinter** to:
@@ -221,3 +221,4 @@ MIT License — you can change this if you want.
 - If you want the **MIT license file**, tell me and I’ll paste a complete `LICENSE` text ready to add.
 
 ```
+
