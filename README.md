@@ -212,10 +212,3 @@ MIT License — you can change this if you want.
 ## © Credit
 
 **All rights reserved to Thorestic.©**
-
-```
-
-### Quick notes to make it perfect:
-- Create folder: `assets/`
-- Put screenshots inside (or remove the screenshots section if you don’t want it)
-- If you want the **MIT license file**, tell me and I’ll paste a complete `LICENSE` text ready to add.
