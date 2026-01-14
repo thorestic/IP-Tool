@@ -66,7 +66,7 @@ IP-TOOL/
 
 ### 1) Clone
 ```bash
-git clone [<your-repo-url>](https://github.com/thorestic/IP-Tool.git)
+git clone https://github.com/thorestic/IP-Tool.git
 cd IP-TOOL
 ````
 
@@ -210,5 +210,6 @@ MIT License — you can change this if you want.
 ## © Credit
 
 **All rights reserved to Thorestic.©**
+
 
 
