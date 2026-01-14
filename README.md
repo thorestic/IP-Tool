@@ -28,16 +28,14 @@ A simple **Windows desktop GUI** tool built with **Python + Tkinter** to:
 
 ## 📸 Screenshots
 
-> Add screenshots in a folder like `assets/` then update the paths below.
-
 ### Main Menu
-![Main Menu](assets/main-menu.png)
+![Main Menu](assets/M.png)
 
 ### Port Scanner
-![Port Scanner](assets/port-scanner.png)
+![Port Scanner](assets/F.png)
 
-### Logs Output
-![Logs](assets/logs.png)
+### IP Information
+![IP Information](assets/D.png)
 
 ---
 
@@ -212,3 +210,4 @@ MIT License — you can change this if you want.
 ## © Credit
 
 **All rights reserved to Thorestic.©**
+
