@@ -156,7 +156,7 @@ Contains:
 
 ## ⬇️ Download (Windows EXE)
 Download the latest release from:
-https://github.com/<YOUR-USER>/<YOUR-REPO>/releases/latest
+https://github.com/thorestic/IP-Tool/releases/tag/ip
 
 ## 👨‍💻 For Developers
 Clone the repo and run:
@@ -164,7 +164,7 @@ Clone the repo and run:
 ```bash
 pip install -r requirements.txt
 python IP_lookup.py
-
+```
 
 ## 🛠 Troubleshooting
 
@@ -205,6 +205,7 @@ MIT License — you can change this if you want.
 ## © Credit
 
 **All rights reserved to Thorestic.©**
+
 
 
 
