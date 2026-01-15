@@ -152,24 +152,19 @@ Contains:
 
 ---
 
-## 🚀 Releases (Optional)
+## 🚀 Releases
 
-If you plan to publish releases:
+## ⬇️ Download (Windows EXE)
+Download the latest release from:
+https://github.com/<YOUR-USER>/<YOUR-REPO>/releases/latest
 
-1. Tag a version:
+## 👨‍💻 For Developers
+Clone the repo and run:
 
 ```bash
-git tag v1.0.0
-git push origin v1.0.0
-```
+pip install -r requirements.txt
+python IP_lookup.py
 
-2. Create a GitHub Release from the tag and include:
-
-* `run.bat`
-* `IP_lookup.py`
-* `requirements.txt`
-
----
 
 ## 🛠 Troubleshooting
 
@@ -210,6 +205,7 @@ MIT License — you can change this if you want.
 ## © Credit
 
 **All rights reserved to Thorestic.©**
+
 
 
 
