@@ -197,7 +197,7 @@ Use scanning features only on networks/systems you **own** or have **explicit pe
 
 ## 🧾 License
 
-MIT License — you can change this if you want.
+MIT License
 
 ---
 
