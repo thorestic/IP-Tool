@@ -198,7 +198,6 @@ Use scanning features only on networks/systems you **own** or have **explicit pe
 ## 🧾 License
 
 MIT License — you can change this if you want.
-(If you want a real LICENSE file, tell me and I’ll generate it.)
 
 ---
 
